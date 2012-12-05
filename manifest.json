@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Simple MVC - Tutorial 3",
+  "name": "MVC with controller - Tutorial 3",
   "version": "1",
   "app": {
     "background": {
